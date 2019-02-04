@@ -29,8 +29,7 @@ If you have not already done so, a new application can be created at
 [Twitter Application Management](https://apps.twitter.com/).  Your application
 will be issued a consumer key (API Key) and consumer secret (API Secret), which
 need to be provided to the strategy.  You will also need to configure a callback
-URL which matches the route in your application. The steps of create Twitter Application is given [above]() in a file name 
-[TwitterApplicationSteps.pdf]()
+URL which matches the route in your application
 
 ## Copyright
 
