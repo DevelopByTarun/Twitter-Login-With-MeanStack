@@ -6,6 +6,7 @@
 [![Join the chat at https://gitter.im/angular/angular](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular/angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Coverage](https://img.shields.io/coveralls/jaredhanson/passport-twitter.svg)](https://coveralls.io/r/jaredhanson/passport-twitter)
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-twitter.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-twitter)
+[![Dependencies](https://img.shields.io/david/jaredhanson/passport-twitter.svg)](https://david-dm.org/jaredhanson/passport-twitter)
 
 ## Twitter Login With MeanStack
 
