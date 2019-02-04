@@ -27,8 +27,8 @@ npm install passport-twitter --save
 Before using `passport-twitter`, you must register an application with Twitter.
 If you have not already done so, a new application can be created at
 [Twitter Application Management](https://apps.twitter.com/).  Your application
-will be issued a consumer key (API Key) and consumer secret (API Secret), which
-need to be provided to the strategy.  You will also need to configure a callback
+will be issued a Consumer key (API Key) and Consumer Secret (API Secret), which
+need to be provided to the strategy.  You will also need to configure a Callback
 URL which matches the route in your application
 
 ## Copyright
