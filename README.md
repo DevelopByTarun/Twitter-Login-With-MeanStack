@@ -10,8 +10,8 @@
 
 ## Twitter Login With MeanStack
 
-[Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://twitter.com/)
-using the OAuth 1.0a API
+[Passport](http://passportjs.org/) Strategy For Authenticating With [Twitter](http://twitter.com/)
+Using The OAuth 1.0a API
 
 #### Install
 
